@@ -4,14 +4,16 @@ targets:
   Azure-Integration:
     type: project
     htmlUrl: https://github.com/github/azure-integration/projects/1
+    columnMap:
+      Proposed: ["Committed"]          
+      Accepted: [
+        "In review",                  
+        "Release activities"]                     
+      In-Progress: ["In Progress"] 
+      Done: ["Done"]            
 
 output: "_reports"
 
-#
-# Targets need to be on section and cache in targets map in generator
-# Reports need a type of Project report or issues report and enforced on target type
-# That means change names of reports to project-limits etc.
-#
 reports:
   - name: Azure features report
     title: "{{{ config.name }}} Project Report"
