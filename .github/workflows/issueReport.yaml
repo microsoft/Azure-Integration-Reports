@@ -24,8 +24,7 @@ jobs:
           with: 
             token: ${{ secrets.PROJECT_TOKEN }}
             configPath: AzureIntegrationReportConfig.yml
-        - if: ${{ github.ref == 'refs/heads/master' }}
-          run: |
+        - run: |
             git config --local user.email "action@github.com"
             git config --local user.name "GitHubAction" 
             git pull
