@@ -1,0 +1,35 @@
+{
+  "datetime": "2020-09-30T10:58:34.070Z",
+  "config": {
+    "name": "Epic report",
+    "targets": {
+      "GitHub-EcoSystem": {
+        "type": "project",
+        "htmlUrl": "https://github.com/github/GitHub-EcoSystem/projects/1"
+      }
+    },
+    "output": "_reports",
+    "reports": [
+      {
+        "name": "Epic report",
+        "title": "{{{ config.name }}} Project Report",
+        "kind": "markdown",
+        "timezoneOffset": 5.5,
+        "targets": [
+          "GitHub-EcoSystem"
+        ],
+        "sections": [
+          {
+            "name": "project-in-progress",
+            "config": {
+              "report-on": "Team: ARC",
+              "wip-label-match": "(\\d+)-dev"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "datetimeString": "2020-09-30_10-58",
+  "rootPath": "/home/runner/work/Azure-Integration-Reports/Azure-Integration-Reports/_reports"
+}

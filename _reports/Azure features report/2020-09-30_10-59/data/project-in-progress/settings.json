@@ -1,0 +1,13 @@
+{
+  "report-on-label": "Epic",
+  "daysAgo": 7,
+  "status-label-match": "(?:green|yellow|red)",
+  "last-updated-days-flag": 3,
+  "last-updated-scheme": "LastCommentPattern",
+  "last-updated-scheme-data": "^(#){1,4} update",
+  "status-day": "Wednesday",
+  "previous-days-ago": 7,
+  "previous-hour-utc": 17,
+  "report-on": "Feature",
+  "wip-label-match": "(\\d+)-dev"
+}

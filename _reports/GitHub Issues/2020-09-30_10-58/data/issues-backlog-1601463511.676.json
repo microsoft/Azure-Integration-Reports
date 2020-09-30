@@ -1,0 +1,215 @@
+[
+  {
+    "number": 13376,
+    "title": "`DotNetCoreCLIV2` should respect `rollForward` in `global.json`",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/13376",
+    "labels": [
+      {
+        "id": 391088230,
+        "node_id": "MDU6TGFiZWwzOTEwODgyMzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Release",
+        "name": "Area: Release",
+        "color": "5319e7",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 2071315651,
+        "node_id": "MDU6TGFiZWwyMDcxMzE1NjUx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/backlog",
+        "name": "backlog",
+        "color": "4ed870",
+        "default": false,
+        "description": "Work that is on the backlog and won't get marked stale"
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 13032,
+    "title": "Allow ARM template deployment tasks to set ARM output variables as pipeline variables",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/13032",
+    "labels": [
+      {
+        "id": 391088230,
+        "node_id": "MDU6TGFiZWwzOTEwODgyMzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Release",
+        "name": "Area: Release",
+        "color": "5319e7",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 2071315651,
+        "node_id": "MDU6TGFiZWwyMDcxMzE1NjUx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/backlog",
+        "name": "backlog",
+        "color": "4ed870",
+        "default": false,
+        "description": "Work that is on the backlog and won't get marked stale"
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 11640,
+    "title": "DotNetCoreCLI - 'pack' does not allow arguments to be passed",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/11640",
+    "labels": [
+      {
+        "id": 391088230,
+        "node_id": "MDU6TGFiZWwzOTEwODgyMzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Release",
+        "name": "Area: Release",
+        "color": "5319e7",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 2071315651,
+        "node_id": "MDU6TGFiZWwyMDcxMzE1NjUx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/backlog",
+        "name": "backlog",
+        "color": "4ed870",
+        "default": false,
+        "description": "Work that is on the backlog and won't get marked stale"
+      }
+    ]
+  },
+  {
+    "number": 10642,
+    "title": "no matching key exchange method found.",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/10642",
+    "labels": [
+      {
+        "id": 1990742169,
+        "node_id": "MDU6TGFiZWwxOTkwNzQyMTY5",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20ABTT",
+        "name": "Area: ABTT",
+        "color": "9ffcd5",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2206051102,
+        "node_id": "MDU6TGFiZWwyMjA2MDUxMTAy",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Task:%20CopyFilesOverSSH",
+        "name": "Task: CopyFilesOverSSH",
+        "color": "c2ecf9",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2071315651,
+        "node_id": "MDU6TGFiZWwyMDcxMzE1NjUx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/backlog",
+        "name": "backlog",
+        "color": "4ed870",
+        "default": false,
+        "description": "Work that is on the backlog and won't get marked stale"
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 10341,
+    "title": "Add support for Linux pipelines",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/10341",
+    "labels": [
+      {
+        "id": 391088230,
+        "node_id": "MDU6TGFiZWwzOTEwODgyMzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Release",
+        "name": "Area: Release",
+        "color": "5319e7",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 2071315651,
+        "node_id": "MDU6TGFiZWwyMDcxMzE1NjUx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/backlog",
+        "name": "backlog",
+        "color": "4ed870",
+        "default": false,
+        "description": "Work that is on the backlog and won't get marked stale"
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 9351,
+    "title": "Service Fabric Powershell - random Exception from HRESULT: 0x80071C57 on connect to cluster",
+    "html_url": "https://github.com/microsoft/azure-pipelines-tasks/issues/9351",
+    "labels": [
+      {
+        "id": 391088230,
+        "node_id": "MDU6TGFiZWwzOTEwODgyMzA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20Release",
+        "name": "Area: Release",
+        "color": "5319e7",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 454070380,
+        "node_id": "MDU6TGFiZWw0NTQwNzAzODA=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/Area:%20ServiceFabric",
+        "name": "Area: ServiceFabric",
+        "color": "fbca04",
+        "default": false,
+        "description": null
+      },
+      {
+        "id": 2071315651,
+        "node_id": "MDU6TGFiZWwyMDcxMzE1NjUx",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/backlog",
+        "name": "backlog",
+        "color": "4ed870",
+        "default": false,
+        "description": "Work that is on the backlog and won't get marked stale"
+      },
+      {
+        "id": 154814013,
+        "node_id": "MDU6TGFiZWwxNTQ4MTQwMTM=",
+        "url": "https://api.github.com/repos/microsoft/azure-pipelines-tasks/labels/enhancement",
+        "name": "enhancement",
+        "color": "84b6eb",
+        "default": true,
+        "description": null
+      }
+    ]
+  }
+]

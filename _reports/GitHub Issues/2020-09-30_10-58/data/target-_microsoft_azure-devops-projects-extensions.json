@@ -1,0 +1,127 @@
+[
+  {
+    "number": 17,
+    "title": "[First pipeline][IoT] VM creation fails due to invalid OS image",
+    "html_url": "https://github.com/microsoft/azure-devops-projects-extensions/issues/17",
+    "labels": [
+      {
+        "id": 2375302084,
+        "node_id": "MDU6TGFiZWwyMzc1MzAyMDg0",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/default",
+        "name": "default",
+        "color": "98ed6a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2374389673,
+        "node_id": "MDU6TGFiZWwyMzc0Mzg5Njcz",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/stale",
+        "name": "stale",
+        "color": "ededed",
+        "default": false,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "title": "[First pipeline][IoT] VM creation fails due to quota limitation",
+    "html_url": "https://github.com/microsoft/azure-devops-projects-extensions/issues/16",
+    "labels": [
+      {
+        "id": 2375302084,
+        "node_id": "MDU6TGFiZWwyMzc1MzAyMDg0",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/default",
+        "name": "default",
+        "color": "98ed6a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2374389673,
+        "node_id": "MDU6TGFiZWwyMzc0Mzg5Njcz",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/stale",
+        "name": "stale",
+        "color": "ededed",
+        "default": false,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "title": "[First pipeline][IoT] IoT hub creation fails due to quota limitation",
+    "html_url": "https://github.com/microsoft/azure-devops-projects-extensions/issues/15",
+    "labels": [
+      {
+        "id": 2375302084,
+        "node_id": "MDU6TGFiZWwyMzc1MzAyMDg0",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/default",
+        "name": "default",
+        "color": "98ed6a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2374389673,
+        "node_id": "MDU6TGFiZWwyMzc0Mzg5Njcz",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/stale",
+        "name": "stale",
+        "color": "ededed",
+        "default": false,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "[First pipeline][IoT] IoT Hub creation fails for Basic SKU ",
+    "html_url": "https://github.com/microsoft/azure-devops-projects-extensions/issues/14",
+    "labels": [
+      {
+        "id": 2375302084,
+        "node_id": "MDU6TGFiZWwyMzc1MzAyMDg0",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/default",
+        "name": "default",
+        "color": "98ed6a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2374389673,
+        "node_id": "MDU6TGFiZWwyMzc0Mzg5Njcz",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/stale",
+        "name": "stale",
+        "color": "ededed",
+        "default": false,
+        "description": null
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "[First pipeline][IoT] Edge deployment fails with invalid ACR credentials",
+    "html_url": "https://github.com/microsoft/azure-devops-projects-extensions/issues/10",
+    "labels": [
+      {
+        "id": 2375302084,
+        "node_id": "MDU6TGFiZWwyMzc1MzAyMDg0",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/default",
+        "name": "default",
+        "color": "98ed6a",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2374389673,
+        "node_id": "MDU6TGFiZWwyMzc0Mzg5Njcz",
+        "url": "https://api.github.com/repos/microsoft/azure-devops-projects-extensions/labels/stale",
+        "name": "stale",
+        "color": "ededed",
+        "default": false,
+        "description": null
+      }
+    ]
+  }
+]

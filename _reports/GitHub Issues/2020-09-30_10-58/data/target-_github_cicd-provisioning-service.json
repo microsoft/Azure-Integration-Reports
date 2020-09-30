@@ -1,0 +1,18 @@
+[
+  {
+    "number": 56,
+    "title": "Optional Parameter for Mustache parser not supported",
+    "html_url": "https://github.com/github/cicd-provisioning-service/issues/56",
+    "labels": [
+      {
+        "id": 2374022511,
+        "node_id": "MDU6TGFiZWwyMzc0MDIyNTEx",
+        "url": "https://api.github.com/repos/github/cicd-provisioning-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  }
+]

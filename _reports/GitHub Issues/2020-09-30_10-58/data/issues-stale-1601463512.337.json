@@ -1,0 +1,261 @@
+[
+  {
+    "number": 153,
+    "title": "Web App dashboard is not painted for github workflow in deployment center. ",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/153",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "title": "Giving wrong GitHub PAT -> repository analysis progress notification keeps on loading",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/142",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "title": "Too many failures in last 3 weeks: Couldn't get repository details. ",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/139",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "title": "When deploying Angular App to Azure (using 'Deploy to Azure' extension) environment.ts settings are replaced",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/138",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "title": "Consider depending on VSCode-YAML rather than directly on yaml-language-server",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/130",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "title": "[VSCode on windows] During the commit of workflow file, it returns LF error",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/121",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2174046642,
+        "node_id": "MDU6TGFiZWwyMTc0MDQ2NjQy",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/priority:2",
+        "name": "priority:2",
+        "color": "fbca04",
+        "default": false,
+        "description": "Priority of the Issue"
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "title": "After Azure Sign In, Subscription dropdown is empty in Codespaces",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/97",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "title": "Extension causes high cpu load",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/78",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "title": "Azure-Pipeline trigger doesn't work when branch has non alphabetic characters ",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/55",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "title": "Use .NET Core should be used with UseGlobalJson rather than with 2.x ",
+    "html_url": "https://github.com/microsoft/vscode-deploy-azure/issues/46",
+    "labels": [
+      {
+        "id": 2375305414,
+        "node_id": "MDU6TGFiZWwyMzc1MzA1NDE0",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/default",
+        "name": "default",
+        "color": "75e534",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 2357523750,
+        "node_id": "MDU6TGFiZWwyMzU3NTIzNzUw",
+        "url": "https://api.github.com/repos/microsoft/vscode-deploy-azure/labels/stale",
+        "name": "stale",
+        "color": "74bbcc",
+        "default": false,
+        "description": ""
+      }
+    ]
+  }
+]

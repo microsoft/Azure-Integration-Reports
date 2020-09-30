@@ -1,0 +1,123 @@
+[
+  {
+    "number": 87,
+    "title": "Failed to deploy to azure",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/87",
+    "labels": [
+      {
+        "id": 1874738747,
+        "node_id": "MDU6TGFiZWwxODc0NzM4NzQ3",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/bug",
+        "name": "bug",
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working"
+      },
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "title": "Windows web app templates should use publish profile credentials ",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/57",
+    "labels": [
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "title": "[Service] Handle the case that 1 publisher can publish multiple extensions",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/56",
+    "labels": [
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "title": "[Logging] We should log the request method, so that it becomes easier in splunk and need to dig into code",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/55",
+    "labels": [
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "title": "[API]templateassetfiles should be renamed to extensionassetfiles",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/54",
+    "labels": [
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "title": "Make list templates based on filter API consistent with the other API",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/23",
+    "labels": [
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "title": "[onboarding] Declare ownership metadata",
+    "html_url": "https://github.com/github/cicd-workflow-templates-service/issues/18",
+    "labels": [
+      {
+        "id": 2374023482,
+        "node_id": "MDU6TGFiZWwyMzc0MDIzNDgy",
+        "url": "https://api.github.com/repos/github/cicd-workflow-templates-service/labels/default",
+        "name": "default",
+        "color": "f44e72",
+        "default": false,
+        "description": ""
+      }
+    ]
+  }
+]

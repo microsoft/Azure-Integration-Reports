@@ -1,0 +1,60 @@
+{
+  "identifier": 1601463513.947,
+  "issues": {
+    "default": [
+      {
+        "number": 18,
+        "title": "Does Azure CLI Action has access to GITHUB_WORKSPACE folder?",
+        "html_url": "https://github.com/Azure/cli/issues/18",
+        "labels": [
+          {
+            "id": 2375300117,
+            "node_id": "MDU6TGFiZWwyMzc1MzAwMTE3",
+            "url": "https://api.github.com/repos/Azure/cli/labels/default",
+            "name": "default",
+            "color": "74f785",
+            "default": false,
+            "description": ""
+          },
+          {
+            "id": 2374375809,
+            "node_id": "MDU6TGFiZWwyMzc0Mzc1ODA5",
+            "url": "https://api.github.com/repos/Azure/cli/labels/stale",
+            "name": "stale",
+            "color": "ededed",
+            "default": false,
+            "description": null
+          }
+        ]
+      }
+    ],
+    "stale": [
+      {
+        "number": 18,
+        "title": "Does Azure CLI Action has access to GITHUB_WORKSPACE folder?",
+        "html_url": "https://github.com/Azure/cli/issues/18",
+        "labels": [
+          {
+            "id": 2375300117,
+            "node_id": "MDU6TGFiZWwyMzc1MzAwMTE3",
+            "url": "https://api.github.com/repos/Azure/cli/labels/default",
+            "name": "default",
+            "color": "74f785",
+            "default": false,
+            "description": ""
+          },
+          {
+            "id": 2374375809,
+            "node_id": "MDU6TGFiZWwyMzc0Mzc1ODA5",
+            "url": "https://api.github.com/repos/Azure/cli/labels/stale",
+            "name": "stale",
+            "color": "ededed",
+            "default": false,
+            "description": null
+          }
+        ]
+      }
+    ],
+    "backlog": []
+  }
+}

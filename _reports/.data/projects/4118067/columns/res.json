@@ -1,0 +1,104 @@
+{
+  "status": 200,
+  "url": "https://api.github.com/projects/4118067/columns",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "connection": "close",
+    "content-encoding": "gzip",
+    "content-security-policy": "default-src 'none'",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Wed, 30 Sep 2020 10:58:34 GMT",
+    "etag": "W/\"be536af4bc4baad8517a2a80db9b90110cae9aafcf22acd7b97fefb28a06f16c\"",
+    "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+    "server": "GitHub.com",
+    "status": "200 OK",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With",
+    "x-accepted-oauth-scopes": "repo",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-github-media-type": "github.squirrel-girl-preview; format=json, github.starfox-preview; format=json, github.mockingbird-preview; param=sailor-v-preview; format=json, github.inertia-preview; format=json",
+    "x-github-request-id": "0793:2F1D:3897C00:5E7FC4F:5F7464DA",
+    "x-oauth-scopes": "admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, gist, repo, user, workflow, write:discussion, write:packages",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "3966",
+    "x-ratelimit-reset": "1601465977",
+    "x-ratelimit-used": "1034",
+    "x-xss-protection": "1; mode=block"
+  },
+  "data": [
+    {
+      "url": "https://api.github.com/projects/columns/8337783",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/8337783/cards",
+      "id": 8337783,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW44MzM3Nzgz",
+      "name": "Initiatives",
+      "created_at": "2020-03-16T05:13:09Z",
+      "updated_at": "2020-09-29T10:36:41Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/9387395",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/9387395/cards",
+      "id": 9387395,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW45Mzg3Mzk1",
+      "name": "Backlog",
+      "created_at": "2020-05-28T16:10:44Z",
+      "updated_at": "2020-09-29T10:36:24Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/10565593",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/10565593/cards",
+      "id": 10565593,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW4xMDU2NTU5Mw==",
+      "name": "Planning",
+      "created_at": "2020-08-25T13:03:02Z",
+      "updated_at": "2020-09-29T10:26:08Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/9304687",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/9304687/cards",
+      "id": 9304687,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW45MzA0Njg3",
+      "name": "Ready for Work",
+      "created_at": "2020-05-22T12:34:54Z",
+      "updated_at": "2020-09-29T09:18:22Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/8337784",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/8337784/cards",
+      "id": 8337784,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW44MzM3Nzg0",
+      "name": "In Progress",
+      "created_at": "2020-03-16T05:13:16Z",
+      "updated_at": "2020-09-29T10:22:35Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/9304682",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/9304682/cards",
+      "id": 9304682,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW45MzA0Njgy",
+      "name": "Blocked",
+      "created_at": "2020-05-22T12:33:10Z",
+      "updated_at": "2020-09-18T08:18:31Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/8337785",
+      "project_url": "https://api.github.com/projects/4118067",
+      "cards_url": "https://api.github.com/projects/columns/8337785/cards",
+      "id": 8337785,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW44MzM3Nzg1",
+      "name": "Complete",
+      "created_at": "2020-03-16T05:13:20Z",
+      "updated_at": "2020-09-30T08:02:32Z"
+    }
+  ]
+}

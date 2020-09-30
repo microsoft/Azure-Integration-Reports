@@ -1,0 +1,35 @@
+{
+  "datetime": "2020-09-30T10:59:11.508Z",
+  "config": {
+    "name": "Azure features report",
+    "targets": {
+      "Azure-Integration": {
+        "type": "project",
+        "htmlUrl": "https://github.com/github/azure-integration/projects/1"
+      }
+    },
+    "output": "_reports",
+    "reports": [
+      {
+        "name": "Azure features report",
+        "title": "{{{ config.name }}} Project Report",
+        "kind": "markdown",
+        "timezoneOffset": 5.5,
+        "targets": [
+          "Azure-Integration"
+        ],
+        "sections": [
+          {
+            "name": "project-in-progress",
+            "config": {
+              "report-on": "Feature",
+              "wip-label-match": "(\\d+)-dev"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "datetimeString": "2020-09-30_10-59",
+  "rootPath": "/home/runner/work/Azure-Integration-Reports/Azure-Integration-Reports/_reports"
+}
