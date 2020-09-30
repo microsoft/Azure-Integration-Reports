@@ -30,7 +30,7 @@ jobs:
             git pull
             git add ./_reports
             git commit -m "adding reports"
-            git push origin master      
+            git push origin main      
             
             
             
