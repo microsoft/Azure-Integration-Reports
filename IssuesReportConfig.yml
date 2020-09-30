@@ -1,0 +1,96 @@
+name: "GitHub Issues"
+
+targets:
+  azure-pipelines-tasks:
+    type: repo
+    htmlUrl: https://github.com/microsoft/azure-pipelines-tasks
+  cicd-workflow-templates-service:
+    type: repo
+    htmlUrl: https://github.com/github/cicd-workflow-templates-service
+  cicd-provisioning-service:
+    type: repo
+    htmlUrl: https://github.com/github/cicd-provisioning-service
+  azure-arm-deploy:
+    type: repo
+    htmlUrl: https://github.com/Azure/arm-deploy
+  azure-cli:
+    type: repo
+    htmlUrl: https://github.com/Azure/cli
+  azure-devops-projects-extensions:
+    type: repo
+    htmlUrl: https://github.com/microsoft/azure-devops-projects-extensions
+  vscode-deploy-azure:
+    type: repo
+    htmlUrl: https://github.com/microsoft/vscode-deploy-azure
+  
+output: "_reports"
+
+reports:
+  - name: GitHub Issues
+    title: "{{{ config.name }}} Report"
+    kind: markdown 
+    timezoneOffset: +5.5
+    sections: 
+      - name: "repo-issues"
+        targets: ['azure-pipelines-tasks' ]
+        config: 
+          breakdown-by-labels:
+            [
+              "stale",
+              "backlog",
+              "Area: Release"
+            ]
+      - name: "repo-issues"
+        targets: ['vscode-deploy-azure']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['cicd-workflow-templates-service']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['cicd-provisioning-service']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['azure-devops-projects-extensions']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['azure-arm-deploy']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]
+      - name: "repo-issues"
+        targets: ['azure-cli']
+        config: 
+          breakdown-by-labels:
+            [
+              "default",
+              "stale",
+              "backlog"
+            ]

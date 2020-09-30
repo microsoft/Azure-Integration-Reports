@@ -1,0 +1,25 @@
+name: "Azure features report"
+
+targets: 
+  Azure-Integration:
+    type: project
+    htmlUrl: https://github.com/github/azure-integration/projects/1
+
+output: "_reports"
+
+#
+# Targets need to be on section and cache in targets map in generator
+# Reports need a type of Project report or issues report and enforced on target type
+# That means change names of reports to project-limits etc.
+#
+reports:
+  - name: Azure features report
+    title: "{{{ config.name }}} Project Report"
+    kind: markdown 
+    timezoneOffset: +5.5
+    targets: ['Azure-Integration']
+    sections:
+      - name: "project-in-progress"
+        config:
+          report-on: 'Feature'
+          wip-label-match: "(\\d+)-dev"

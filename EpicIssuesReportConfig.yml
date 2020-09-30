@@ -1,0 +1,25 @@
+name: "Epic report"
+
+targets: 
+  GitHub-EcoSystem:
+    type: project
+    htmlUrl: https://github.com/github/GitHub-EcoSystem/projects/1
+
+output: "_reports"
+
+#
+# Targets need to be on section and cache in targets map in generator
+# Reports need a type of Project report or issues report and enforced on target type
+# That means change names of reports to project-limits etc.
+#
+reports:
+  - name: Epic report
+    title: "{{{ config.name }}} Project Report"
+    kind: markdown 
+    timezoneOffset: +5.5
+    targets: ['GitHub-EcoSystem']
+    sections:
+      - name: "project-in-progress"
+        config:
+          report-on: 'Team: ARC'
+          wip-label-match: "(\\d+)-dev"
